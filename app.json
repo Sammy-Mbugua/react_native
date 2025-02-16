@@ -5,6 +5,10 @@
       "expo-router"
     ],
     "name": "React_native_jobs",
-    "slug": "React_native_jobs"
+    "slug": "React_native_jobs",
+    "jsEngine": "hermes",
+    "experiments": {
+      "newArchEnabled": true
+    }
   }
 }
